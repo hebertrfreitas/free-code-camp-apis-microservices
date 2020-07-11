@@ -1,7 +1,6 @@
 {
-	"author": "Hebert Freitas",
-
 	"name": "fcc-learn-npm-package-json",
+	"author": "Hebert Freitas",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
